@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Achala Tours and Travel</title>
+</head>
+<body>
+  <h1>Welcome to Achala Tours and Travel</h1>
+  <p>Explore India with us — domestic tours tailored for every Indian!</p>
+  <nav>
+    <a href="tours.html">View Tours</a> |
+    <a href="contact.html">Contact Us</a>
+  </nav>
+</body>
+</html>
