@@ -1,8 +1,3 @@
-Certainly! Here's a simple read-me content that you can add to your GitHub repository to provide context for the website. It will help anyone visiting your repository understand the purpose and how to set it up.
-
-
----
-
 Achala Tours and Travel Website
 
 About the Project
